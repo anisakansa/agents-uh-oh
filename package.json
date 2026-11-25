@@ -1,0 +1,1 @@
+{"description":"The Agent's Uh-Oh — one word an agent says when it has no idea what to do. Entry for make.fun bounty u-danu-the-agent-s-uh-oh-4c0911e4.","license":"MIT","main":"main.ts","name":"agents-uh-oh","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
